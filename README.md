@@ -42,8 +42,7 @@ This project investigates these challenges using an e-commerce dataset and propo
 ## Power BI Dashboard
 
 The dashboard presents order and shipping KPIs, shipping performance comparisons, product category analysis, and geographic order distribution.
-
-S![OMS Power BI Dashboard](PowerBI/OMS Dashboard.png)
+![OMS Power BI Dashboard](PowerBI/OMS%20Dashboard.png)
 
 ## Business Analysis Deliverables
 
