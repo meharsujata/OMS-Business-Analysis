@@ -1,6 +1,18 @@
 # Online Retail Order Management System (OMS)
 
 **Business Analysis | SQL | Power BI | Retail & E-commerce**
+## About the Project
+
+The Online Retail Order Management System (OMS) is a business analysis and data visualization portfolio project focused on understanding order processing and shipping performance in retail and e-commerce.
+
+Using SQL and Power BI, this project examines order volumes, delivery delays, cancelled shipments, scheduled versus actual shipping times, product category distribution, and geographic order patterns.
+
+The goal is to identify operational issues, improve visibility into order fulfillment, and propose data-driven recommendations for potential system and process enhancements.
+
+**Role:** Business Analyst / Data Analyst  
+**Domain:** Retail & E-commerce  
+**Tools:** PostgreSQL, SQL, Power BI, Excel  
+**Focus Areas:** Business Requirements, Process Improvement, KPI Reporting, Data Analysis, and Operational Insights
 
 ## Project Overview
 
